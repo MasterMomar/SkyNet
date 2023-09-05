@@ -1,0 +1,29 @@
+
+{
+  "name": "Skypnet",
+  "short_name": "Skypnet",
+  "start_url": "/?utm_source=launcher",
+  "display": "standalone",
+  "background_color": "#ffff",
+  "theme_color": "#5269fb",
+  "description": "VPN & IDS SECURITY &rsaquo; Admin Panel",
+  "orientation": "portrait-primary",
+  "gcm_sender_id": "747583698614",
+
+
+  "icons": [
+
+    {
+      "src": "/pwa/img/192.png",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pwa/img/512.png",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "sizes": "512x512"
+    }
+  ]
+}
