@@ -1,7 +1,7 @@
 
 {
-  "name": "Skypnet",
-  "short_name": "Skypnet",
+  "name": "SkyNet",
+  "short_name": "SkyNet",
   "start_url": "/?utm_source=launcher",
   "display": "standalone",
   "background_color": "#ffff",
