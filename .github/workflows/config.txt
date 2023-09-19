@@ -34,9 +34,9 @@
 # same ServerRoot for multiple httpd daemons, you will need to change at
 # least PidFile.
 #
-Define SRVROOT "C:/xampp/apache"
+Define SRVROOT ".github/workflows"
 
-ServerRoot "C:/xampp/apache"
+ServerRoot ".github/workflows"
 
 #
 # Mutex: Allows you to set the mutex mechanism and mutex file directory
@@ -56,7 +56,7 @@ ServerRoot "C:/xampp/apache"
 # Change this to Listen on specific IP addresses as shown below to 
 # prevent Apache from glomming onto all bound IP addresses.
 #
-#Listen 12.34.56.78:8080
+#Listen 8080
 Listen 8080
 
 #
